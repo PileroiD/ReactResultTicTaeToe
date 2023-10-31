@@ -1,0 +1,14 @@
+.block {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    color: #fff;
+    user-select: none;
+}
